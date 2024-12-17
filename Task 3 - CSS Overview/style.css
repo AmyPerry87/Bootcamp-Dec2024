@@ -1,0 +1,33 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black
+  }
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 60px;
+  background-color: lightblue;
+  width: 400px;
+  border: 10px solid rgb(0, 0, 0);
+  padding: 40px;
+  margin: 20px;
+  text-align: center;
+}
+
+h3{ font-family: 'Times New Roman', Times, serif;
+  color: blue;
+}
+
+h4{
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+}
+
+h5{ font-family: 'Times New Roman', Times, serif;
+  color: blue;
+}
